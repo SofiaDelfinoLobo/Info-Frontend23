@@ -19,12 +19,11 @@
   width: 400px;
   height: 380px;
   border: 2px solid;
-  border-radius: 10px;
-  padding: 20px;
+  border-radius: 5px;
 
   display: flex;
   flex-direction: column;
-  gap: 15px;
+  gap: 10px;
 }
 
 .card__imagem figure {
